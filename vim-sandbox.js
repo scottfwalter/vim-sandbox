@@ -9,7 +9,7 @@ function fred(name) {
   console.log("hello there");
   console.log("Hello there");
   console.log("Hello there");
-  console.log("Hello there");
+  console.log("Hello there again");
 
   if (name === "scott") {
     console.log("fred walter");
