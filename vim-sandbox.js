@@ -13,11 +13,11 @@ function fred(name) {
   console.log("Hello there");
   console.log("Hello there again");
 
-  if (name === "scott") {
+  if (name === "scott walter") {
     console.log("fred walter");
   }
 
-  if (true) {
+  if (name === "scottwalter") {
     console.log("hello there");
   }
 }
