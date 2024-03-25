@@ -1,4 +1,4 @@
-#!/opt/homebrew/bin/gawk -f
+#!/opt/homebrew/bin/awk -f
 #!/usr/bin/awk -f
 #
 # Example of the use of 'switch' in GNU Awk.
